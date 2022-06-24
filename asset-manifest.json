@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ff1c89d.css",
+    "main.js": "/static/js/main.7e20b283.js",
+    "static/js/787.65058f79.chunk.js": "/static/js/787.65058f79.chunk.js",
+    "static/media/ma2.PNG": "/static/media/ma2.8af43464c240fe10c9ab.PNG",
+    "static/media/logo.PNG": "/static/media/logo.2156147c90578f863255.PNG",
+    "static/media/airstrikecond.ttf": "/static/media/airstrikecond.f47f752f3ab52d87422b.ttf",
+    "static/media/afroappetite.PNG": "/static/media/afroappetite.57f011220ca23ebe3e98.PNG",
+    "index.html": "/index.html",
+    "main.4ff1c89d.css.map": "/static/css/main.4ff1c89d.css.map",
+    "main.7e20b283.js.map": "/static/js/main.7e20b283.js.map",
+    "787.65058f79.chunk.js.map": "/static/js/787.65058f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff1c89d.css",
+    "static/js/main.7e20b283.js"
+  ]
+}
